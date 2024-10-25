@@ -1,0 +1,7 @@
+com\weather\config\WeatherAPIConfig.class
+com\weather\model\WeatherData.class
+com\weather\service\WeatherService.class
+com\weather\repository\WeatherRepository.class
+com\weather\utils\WeatherUtils.class
+com\weather\controller\WeatherController.class
+com\weather\monitoring\WeatherMonitoringApplication.class
